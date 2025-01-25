@@ -1,8 +1,8 @@
 baseURL = "http://www.example.com"
-title = "coco"
+title = "程庸"
 theme = "hugo-coder"
-languageCode = "en"
-defaultContentLanguage = "en"
+languageCode = "zh"
+defaultContentLanguage = "zh"
 enableEmoji = true
 
 [pagination]
@@ -21,11 +21,11 @@ noClasses = false
 unsafe = true
 
 [params]
-author = "Zhenying Yu"
+author = "Cheng yong"
 # license = '<a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/">CC BY-SA-4.0</a>'
 description = "Zhenying's personal website"
 keywords = "blog,poetry,personal"
-info = ["Antique expert", "Poet"]
+info = ["Antique Expert", "Poet"]
 avatarURL = "images/avatar.jpg"
 #gravatar = "john.doe@example.com"
 dateFormat = "January 25, 2025"
