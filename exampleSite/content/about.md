@@ -1,25 +1,9 @@
 +++
 title = "About"
-description = "Hugo, the world's fastest framework for building websites"
-date = "2019-02-28"
-aliases = ["about-us", "about-hugo", "contact"]
-author = "Hugo Authors"
+description = "程庸的个人简介"
+date = "2025-1-25"
+aliases = ["about-us", "about-yong cheng", "contact"]
+author = "zhenying yu"
 +++
 
-Written in Go, Hugo is an open source static site generator available under the [Apache Licence 2.0.](https://github.com/gohugoio/hugo/blob/master/LICENSE) Hugo supports TOML, YAML and JSON data file types, Markdown and HTML content files and uses shortcodes to add rich content. Other notable features are taxonomies, multilingual mode, image processing, custom output formats, HTML/CSS/JS minification and support for Sass SCSS workflows.
-
-Hugo makes use of a variety of open source projects including:
-
-* https://github.com/yuin/goldmark
-* https://github.com/alecthomas/chroma
-* https://github.com/muesli/smartcrop
-* https://github.com/spf13/cobra
-* https://github.com/spf13/viper
-
-Hugo is ideal for blogs, corporate websites, creative portfolios, online magazines, single page applications or even a website with thousands of pages.
-
-Hugo is for people who want to hand code their own website without worrying about setting up complicated runtimes, dependencies and databases.
-
-Websites built with Hugo are extremely fast, secure and can be deployed anywhere including, AWS, GitHub Pages, Heroku, Netlify and any other hosting provider.
-
-Learn more and contribute on [GitHub](https://github.com/gohugoio).
+程庸，原名程勇，祖籍江苏镇江。为《上海经济报》、《申江服务导报》记者，读书、古玩版编辑，中国作家协会会员，中国古陶瓷学会会员，中国文物学会会员。上世纪80年代写诗，主要作品有长诗《蓝鸟》、《黑山鹰》，组诗《片羽吉光的苦恋》；90年代写小说，作品有《情雨》、《飞翔》、长篇小说“手洗时代”三部曲第一部《德令哈囚犯》、《一个人的百部经典》、《月亮下的蛋》（合作）。业余时间研玩中国古陶瓷，出版专著《晋唐宋元瓷器真赝对比鉴定》、《明清瓷器真赝对比鉴定》。组诗《怀念村庄》获《萌芽》文学奖。
