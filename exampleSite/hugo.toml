@@ -1,8 +1,8 @@
 baseURL = "http://www.example.com"
 title = "程庸"
 theme = "hugo-coder"
-languageCode = "zh"
-defaultContentLanguage = "zh"
+languageCode = "en"
+defaultContentLanguage = "en"
 enableEmoji = true
 
 [pagination]
