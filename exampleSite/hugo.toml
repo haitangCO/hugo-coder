@@ -24,7 +24,7 @@ unsafe = true
 author = "Yong Cheng"
 # license = '<a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/">CC BY-SA-4.0</a>'
 description = "Yong's personal website"
-keywords = "blog,poetry"
+keywords = "blog, poetry"
 info = ["Antique Expert", "Poet"]
 avatarURL = "images/avatar.jpg"
 #gravatar = "john.doe@example.com"
@@ -224,7 +224,7 @@ url = "posts/"
 [[languages.zh-cn.menu.main]]
 name = "作品"
 weight = 3
-url = "wks/"
+url = "works/"
 
 [[languages.zh-cn.menu.main]]
 name = "联系方式"
