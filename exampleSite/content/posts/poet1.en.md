@@ -1,7 +1,7 @@
 +++
 authors = ["Yong Cheng"]
 title = "The power of bats is just a rhetoric"
-date = "2025-01-25"
+#date = "2025-01-25"
 description = "A poem originally written by Yong Cheng and translated by Amy."
 tags = [ "poetry", "translation" ]
 categories = [ "literature", "poetry" ]
