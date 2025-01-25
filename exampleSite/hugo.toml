@@ -224,7 +224,7 @@ url = "posts/"
 [[languages.zh-cn.menu.main]]
 name = "作品"
 weight = 3
-url = "works/"
+url = "wks/"
 
 [[languages.zh-cn.menu.main]]
 name = "联系方式"
