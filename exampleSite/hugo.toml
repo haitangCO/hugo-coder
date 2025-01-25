@@ -21,11 +21,11 @@ noClasses = false
 unsafe = true
 
 [params]
-author = "Cheng yong"
+author = "Yong Cheng"
 # license = '<a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/">CC BY-SA-4.0</a>'
-description = "Chengyong's personal website"
+description = "Yong's personal website"
 keywords = "blog,poetry,personal"
-info = ["Antique Expert", "Poet"]
+info = ["Antique Expert 古董鉴赏家", "Poet 诗人"]
 avatarURL = "images/avatar.jpg"
 #gravatar = "john.doe@example.com"
 dateFormat = "January 25, 2025"
