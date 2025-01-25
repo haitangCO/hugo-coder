@@ -23,7 +23,7 @@ unsafe = true
 [params]
 author = "Cheng yong"
 # license = '<a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/">CC BY-SA-4.0</a>'
-description = "Zhenying's personal website"
+description = "Chengyong's personal website"
 keywords = "blog,poetry,personal"
 info = ["Antique Expert", "Poet"]
 avatarURL = "images/avatar.jpg"
@@ -192,9 +192,9 @@ weight = 2
 url = "posts/"
 
 [[languages.en.menu.main]]
-name = "Projects"
+name = "Works"
 weight = 3
-url = "projects/"
+url = "works/"
 
 [[languages.en.menu.main]]
 name = "Contact me"
