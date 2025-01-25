@@ -222,9 +222,9 @@ weight = 2
 url = "posts/"
 
 [[languages.pt-br.menu.main]]
-name = "Projetos"
+name = "Works"
 weight = 3
-url = "projects/"
+url = "works/"
 
 [[languages.pt-br.menu.main]]
 name = "Contato"
