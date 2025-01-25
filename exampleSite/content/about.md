@@ -1,7 +1,7 @@
 +++
 title = "About"
 description = "程庸的个人简介"
-date = "2025-1-25"
+date = "2025-01-25"
 aliases = ["about-us", "about-yong cheng", "contact"]
 author = "zhenying yu"
 +++
