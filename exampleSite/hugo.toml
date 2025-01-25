@@ -221,7 +221,7 @@ name = "博客"
 weight = 2
 url = "posts/"
 
-[[languages.zh-vn.menu.main]]
+[[languages.zh-cn.menu.main]]
 name = "作品"
 weight = 3
 url = "works/"
