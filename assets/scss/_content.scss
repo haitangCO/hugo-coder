@@ -1,6 +1,9 @@
 .content {
   flex: 1;
-  display: flex;
+  display: block !important; /* 取消 flex 限制 */
+  max-width: 80vw; /* 让内容区域更宽 */
+  width: auto;
+  margin: auto;
   margin-top: 1.6rem;
   margin-bottom: 3.2rem;
   @media only screen and (max-width: 768px) {
@@ -52,12 +55,11 @@
     }
 
     p {
-      text-align: justify;
-      text-justify: auto;
-      -ms-hyphens: auto;
-      -webkit-hyphens: auto;
-      hyphens: auto;
-    }
+  text-align: left !important; /* 让文本靠左，不强制两端对齐 */
+  white-space: normal !important; /* 确保文本自动换行 */
+  word-wrap: break-word; /* 允许长单词换行 */
+  overflow-wrap: break-word;
+}
   }
 
   .post {
