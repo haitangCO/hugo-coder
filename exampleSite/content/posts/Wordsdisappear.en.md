@@ -17,6 +17,9 @@ banal reflection no longer described the hometown,
 which used to live in a pond.
 
 
+
+
+
 Now it is flowing placidly and follows the passing birds.
 
 One day, the word just slipped out
