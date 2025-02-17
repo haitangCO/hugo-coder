@@ -1,9 +1,9 @@
 <style>
 .gallery {
   display: grid;
-  grid-template-columns: repeat(3, 1fr); /* 3列布局，每列宽度可变 */
+  grid-template-columns: repeat(3, 1fr); /* 三列布局 */
   gap: 20px;
-  align-items: start; /* 让所有图片顶部对齐 */
+  align-items: start; /* 确保所有图片顶部对齐 */
 }
 .gallery figure {
   display: flex;
@@ -13,9 +13,10 @@
 }
 .gallery img {
   width: 100%; /* 宽度自适应 */
-  height: 200px; /* 固定高度，确保对齐 */
-  object-fit: cover; /* 裁剪图片，保证高度一致 */
+  height: 200px; /* 固定高度 */
+  object-fit: contain; /* 保持完整，不裁剪 */
   border-radius: 8px;
+  background-color: #f5f5f5; /* 避免空白区域太明显 */
 }
 </style>
 
