@@ -1,5 +1,21 @@
-<div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 10px;">
-  {{ range .Params }}
-  <img src="{{ . }}" style="width: 30%;" alt="Gallery Image">
-  {{ end }}
+<style>
+.gallery {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  gap: 20px;
+}
+.gallery figure {
+  text-align: center;
+  width: 30%;
+}
+.gallery img {
+  max-width: 100%;
+  height: auto;
+  border-radius: 8px;
+}
+</style>
+
+<div class="gallery">
+  {{ .Inner | markdownify }}
 </div>
