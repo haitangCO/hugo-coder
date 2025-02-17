@@ -10,8 +10,14 @@ series = ["Poetry Collection"]
 
 
 I'm a person whose words are always on the tip of my tongue. 
+
+
 Maybe since I met you, the fresh words'
+
+
 banal reflection no longer described the hometown,
+
+
 which used to live in a pond.
 
 Now it is flowing placidly and follows the passing birds.
