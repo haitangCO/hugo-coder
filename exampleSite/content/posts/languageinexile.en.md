@@ -1,9 +1,12 @@
-+++ authors = ["Yong Cheng"] 
-title = "Language in Exile" date = "2025-01-25" 
-description = "A poem originally written by Yong Cheng." 
-tags = [ "poetry", "translation" ] 
-categories = [ "literature", "poetry" ] 
-series = ["Poetry Collection"]  +++
++++
+authors = ["Yong Cheng"]
+title = "Language in Exile"
+date = "2025-01-25"
+description = "A poem originally written by Yong Cheng."
+tags = ["poetry", "translation"]
+categories = ["literature", "poetry"]
+series = ["Poetry Collection"]
++++
 
 
 I’m sick of talking to the wind.
