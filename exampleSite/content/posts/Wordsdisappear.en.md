@@ -7,7 +7,11 @@ tags = ["poetry", "translation"]
 categories = ["literature", "poetry"]
 series = ["Poetry Collection"]
 +++
+
+
 &#8239;
+
+
 I'm a person whose words are always on the tip of my tongue. 
 
 Maybe since I met you, the fresh words'
@@ -16,10 +20,7 @@ banal reflection no longer described the hometown,
 
 which used to live in a pond.
 
-
-&#8239;
-
-
+&#8201;
 
 Now it is flowing placidly and follows the passing birds.
 
