@@ -25,11 +25,11 @@ Cheng Yong, a native of Shanghai, has worked as an editor for literary reading s
 {{< /gallery >}}
 {{< gallery >}}
   <figure>
-    <img src="/images/image4.jpg" alt="Image 4" title="The Prisoner of Delingha">
+    <img src="/images/image4.webp" alt="Image 4" title="The Prisoner of Delingha">
     <figcaption>The Prisoner of Delingha</figcaption>
   </figure>
   <figure>
-    <img src="/images/image5.jpg" alt="Image 5" title="The Collected Works of Madame Pompadou">
+    <img src="/images/image5.webp" alt="Image 5" title="The Collected Works of Madame Pompadou">
     <figcaption>The Collected Works of Madame Pompadou</figcaption>
   </figure>
   <figure>
