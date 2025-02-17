@@ -24,7 +24,8 @@ Cheng Yong, a native of Shanghai, has worked as an editor for literary reading s
   </figure>
 {{< /gallery >}}
 
-    
+    &nbsp;
+
 {{< gallery >}}
   <figure>
     <img src="/images/image4.webp" alt="Image 4" title="The Prisoner of Delingha                                                                 ">
@@ -40,7 +41,8 @@ Cheng Yong, a native of Shanghai, has worked as an editor for literary reading s
   </figure>
 {{< /gallery >}}
 
-    
+    &nbsp;
+
 {{< gallery >}}
   <figure>
     <img src="/images/image7.jpg" alt="Image 7" title="Dragon Songs">
