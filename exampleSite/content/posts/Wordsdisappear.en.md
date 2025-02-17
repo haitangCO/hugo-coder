@@ -1,8 +1,8 @@
 +++
-authors = ["Yong Cheng"]
+authors = ["Cheng Yong"]
 title = "Words disappear when I see you"
 date = "2025-02-17"
-description = "A poem originally written by Yong Cheng."
+description = "A poem originally written by Cheng Yong."
 tags = ["poetry", "translation"]
 categories = ["literature", "poetry"]
 series = ["Poetry Collection"]
