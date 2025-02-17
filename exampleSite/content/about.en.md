@@ -37,5 +37,19 @@ Cheng Yong, a native of Shanghai, has worked as an editor for literary reading s
     <figcaption>The Beauty of the Official Kiln</figcaption>
   </figure>
 {{< /gallery >}}
+{{< gallery >}}
+  <figure>
+    <img src="/images/image7.jpg" alt="Image 7" title="Dragon Songs">
+    <figcaption>Dragon Songs</figcaption>
+  </figure>
+  <figure>
+    <img src="/images/image8.jpg" alt="Image 8" title="International Poetry and Prose Collection of Chinese and Foreign PEN">
+    <figcaption>International Poetry and Prose Collection of Chinese and Foreign PEN</figcaption>
+  </figure>
+  <figure>
+    <img src="/images/image9.jpg" alt="Image 9" title="The Biography of Su Shi: Tea, Incense, and Utensils">
+    <figcaption>The Biography of Su Shi: Tea, Incense, and Utensils</figcaption>
+  </figure>
+{{< /gallery >}}
 
 
