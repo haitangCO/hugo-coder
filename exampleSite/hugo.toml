@@ -1,5 +1,5 @@
 baseURL = "http://www.example.com"
-title = "程庸"
+title = "Chengyong"
 theme = "hugo-coder"
 languageCode = "zh-cn"
 defaultContentLanguage = "zh-cn"
@@ -21,7 +21,7 @@ noClasses = false
 unsafe = true
 
 [params]
-author = "Yong Cheng"
+author = "Cheng Yong"
 # license = '<a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/">CC BY-SA-4.0</a>'
 description = "Yong's personal website"
 keywords = "blog, poetry"
