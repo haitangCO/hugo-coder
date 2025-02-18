@@ -1,5 +1,19 @@
++++
+authors = ["Cheng Yong"]
+title = "A Thousand Line Elegy"
+date = "2025-02-17"
+description = "A poem originally written by Cheng Yong, translated by Li Yameng."
+tags = ["poetry", "translation"]
+categories = ["literature", "poetry"]
+series = ["Poetry Collection"]
+translators = ["Li Yameng"]
++++
+
+
+&#8201;
 
 Introduction
+
 There is a narrative part of this poem. When I was young, I enjoyed my spare time and love. My girlfriend and I committed to each other. Later, the Cultural Revolution began. The government punished me because of my critical articles. What’s worse, my mother was also punished by them since she didn’t discipline me well. The Red Guards searched my house and confiscated possessions. My girlfriend betrayed me and I was sent to a prison camp. My job in prison was digging an air raid shelter. I felt guilty and confused at the time surrounded by the revolutionary rebels. Our culture and historical relics were destroyed by the revolution. Traditional culture was regarded as an obstacle of the development of the country. My mother was deeply depressed not seeing her son and she soon died. At the end of the Culture Revolution, our country began to develop the economy. The rebels changed roles. Instead of victims, they suddenly became rich people. My girlfriend was one of them. A lot of people started to wallow in sensual pleasures all day. The red guard who had searched my house indulged himself in debauchery and finally died.
 
 In my eyes, it is the era of money. People are busy making money and forget to think about their life. I used to follow the pace of the era, but soon I stopped
