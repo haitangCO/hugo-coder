@@ -2,5 +2,4 @@
 title = "Contact"
 slug = "contact"
 +++
-
-contact ways
+Email: chengy105@163.com 
